@@ -1,0 +1,27 @@
+*,
+html,
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+h2 {
+
+    padding-top: 90px;
+}
+
+
+
+
+.pt {
+    padding-top: 150px;
+}
+
+
+.services .icon-box .icon {
+    margin: 0 auto;
+    height: 100px;
+}
